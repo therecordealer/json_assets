@@ -1,0 +1,7 @@
+[
+  {
+    "Intent Category ": "general_info",
+    "question": "\"Tell me more\"",
+    "answer": "Hello {{sender_name}},\n\nThank you for your message and pleasure to be in touch. Appreciate you are considering Kanjian for expanding your revenue streams\n\n\nKind regards, "
+  }
+]
